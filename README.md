@@ -20,15 +20,19 @@ Designed for quick interaction with minimal loading time, ensuring usability eve
 The platform is built with a focus on user safety and minimal data handling, ensuring privacy and security.
 
 💡 Purpose
+
 The main goal of Shield Her is to provide a reliable and accessible digital solution that empowers individuals to feel safer and more confident while navigating daily life. With increasing safety concerns, especially in urban environments, this platform acts as a support tool that combines awareness, accessibility, and quick response features into a single system.
 
 ⚙️ How It Works
+
 The platform operates entirely on the frontend, ensuring fast performance and easy accessibility. Users can interact with different sections of the website to access safety features, emergency options, and informational resources. The system is designed to minimize complexity, allowing users to quickly navigate and use the platform during critical situations.
 
 📸 Screenshots
+
 Screenshots of the homepage, safety features, and user interface are available in the /screenshots folder of this repository.
 
 🚀 Future Improvements
+
 Integration with real-time location tracking
 SOS alert system with message sharing
 Mobile application version
@@ -36,5 +40,6 @@ Integration with emergency services APIs
 AI-based safety recommendations
 
 ❤️ Vision
+
 To build a safer environment through technology by empowering individuals with tools, awareness, and confidence.
 Stay Safe. Stay Strong. 🛡️✨
